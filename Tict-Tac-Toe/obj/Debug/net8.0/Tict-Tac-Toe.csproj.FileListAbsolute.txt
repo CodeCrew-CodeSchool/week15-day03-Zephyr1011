@@ -1,0 +1,15 @@
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\bin\Debug\net8.0\Tict-Tac-Toe.exe
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\bin\Debug\net8.0\Tict-Tac-Toe.deps.json
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\bin\Debug\net8.0\Tict-Tac-Toe.runtimeconfig.json
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\bin\Debug\net8.0\Tict-Tac-Toe.dll
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\bin\Debug\net8.0\Tict-Tac-Toe.pdb
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.AssemblyInfoInputs.cache
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.AssemblyInfo.cs
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.csproj.CoreCompileInputs.cache
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.sourcelink.json
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.dll
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\refint\Tict-Tac-Toe.dll
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.pdb
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\Tict-Tac-Toe.genruntimeconfig.cache
+C:\Users\Student-27\Documents\GitHub\week15-day03-Zephyr1011\Tict-Tac-Toe\obj\Debug\net8.0\ref\Tict-Tac-Toe.dll
